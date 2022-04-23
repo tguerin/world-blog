@@ -3,7 +3,7 @@ layout: post
 date: 2016-02-11 08:50:28
 categories: travel
 author_slug: michelle-jones
-is_featured: false
+is_featured: true
 feature_image: feature-asia.jpg
 ---
 
