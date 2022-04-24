@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lens Theme
+title: Travel And Life
 description: > # A blog about travel, adventure and stories from the road.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -24,10 +24,7 @@ markdown: kramdown
 
 nav_list:
   Home : ['Home', '/']
-  About : ['About', '/about']
-  Michelle : ['Michelle', '/author/michelle']
-  Sarah : ['Sarah', '/author/sarah']
-  Tom : ['Tom', '/author/tom']
-  Travel : ['Travel', '/category/travel']
-  Inspiration : ['Inpiration', '/category/inspiration']
+  About : ['À propos', '/about']
+  Travel : ['Voyage', '/category/travel']
+  Inspiration : ['Inspiration', '/category/inspiration']
   Contact : ['Contact', '/contact/']

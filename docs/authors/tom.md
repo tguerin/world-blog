@@ -1,5 +1,5 @@
 ---
 layout: author
-author_slug: tom-jackson
+author_slug: tom
 permalink: /author/tom/
 ---
