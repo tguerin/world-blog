@@ -1,23 +1,12 @@
 anne:
     name: Anne
     slug: anne
-    bio: Voyageuse passionnée. A la recherche du sens de la vie. Pourrait passer sa vie dans les cafés. Fan de fictions, séries, jeux-vidéos.
+    bio: Voyageuse passionnée. Pourrait passer sa vie dans les cafés. Fan de fictions, séries, jeux-vidéos.
     location: Paris, France
     avatar_image: anne.jpeg
-    cover_image: scotland2.jpg
+    cover_image: iceland.jpg
     permalink: /author/anne
-    twitter_url: http://twitter.com/michellejoneswriter
-    facebook_url: http://facebook.com/michellejoneswriter
-    instagram_url: http://instagram.com/michellejoneswriter
-    tumblr_url: http://tumblr.com/michellejoneswriter
-    dribbble_url: http://dribbble.com/michellejoneswriter
-    github_url: http://github.com/michellejoneswriter
-    reddit_url: http://github.com/michellejoneswriter
-    google_url: http://gogole.com/michellejoneswriter
-    pintrest_url: http://example.com/michellejoneswriter
-    vine_url: http://example.com/michellejoneswriter
-    vimeo_url: http://example.com/michellejoneswriter
-    snapchat_url: http://example.com/michellejoneswriter
+
 
 tom:
     name: Tom
@@ -29,7 +18,6 @@ tom:
     avatar_image: tom.jpeg
     cover_image: feature-fire.jpg
     permalink: /author/tom
-    dribbble_url: http://dribbble.com/tomjacksonnet
     twitter_url: http://twitter.com/tomjacksonnet
     instagram_url: http://instagram.com/tomjacksonnet
     dribbble_url: http://dribbble.com/tomjacksonnet
