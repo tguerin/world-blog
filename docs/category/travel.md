@@ -1,9 +1,9 @@
 ---
 layout: category
-title: Travel Category
-category_slug: travel
-category_name: Travel
-category_description: The simple act of leaving what you know to discover that which you know not.
-category_feature_image: feature-sea.jpg
-parmalink: /category/travel/
+title: Voyage Category
+category_slug: voyage
+category_name: Voyage
+category_description: Suivez-nous dans notre tour du monde
+category_feature_image: feature-water.jpg
+parmalink: /category/voyage/
 ---

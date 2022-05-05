@@ -3,7 +3,7 @@ layout: category
 title: Inspiration Category
 category_slug: inspiration
 category_name: Inspiration
-category_description: Everything you need to keep you heading in the right direction. We can't make you go, but we can help lead the way
-category_feature_image: post-assets/spain.jpg
+category_description: Et si on suivait ses rêves?
+category_feature_image: scotland2.jpg
 parmalink: /category/inspiration/
 ---
