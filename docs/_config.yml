@@ -22,6 +22,8 @@ permalink: :title
 # Build settings
 markdown: kramdown
 
+future: true
+
 nav_list:
   Home : ['Home', '/']
   About : ['À propos', '/about']
