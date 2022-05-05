@@ -4,7 +4,7 @@ feature_image: feature-plantpot.jpg
 title: Contact
 permalink: /contact/
 footer:
-form_heading: Contact our Team
+form_heading: Contactez-nous
 ---
 
-Send us a message! We love messages.
+On adore lire vos messages, n'hésitez pas à nous en envoyer :)
