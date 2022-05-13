@@ -14,6 +14,8 @@ Le tour du monde, c'est un peu le rêve lointain, celui qu'on se repasse avant d
 
 C’est peut-être bien LA seule question qui importe. Elle va définir le voyage, les rencontres, le rythme, tout.
 
+<img src="img\why.gif" title="" alt="" width="350">
+
 Aucun voyage ne se ressemble, et personne n’en a tout à fait les mêmes attentes.
 
 Pour Tom, c’est le pas de la foi:
