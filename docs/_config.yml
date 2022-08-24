@@ -29,4 +29,5 @@ nav_list:
   About : ['À propos', '/about']
   Travel : ['Voyage', '/category/travel']
   Inspiration : ['Inspiration', '/category/inspiration']
+  Experience : ['Expérience', '/category/experience']
   Contact : ['Contact', '/contact/']
