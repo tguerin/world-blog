@@ -9,7 +9,7 @@ feature_image: ecuador/mindo/header-mindo-sensations.jpg
 ---
 
 
-Comme vous avez pu le suivre dans un des articles précédents, je suis arrivé à Mindo avec le petit doigt de pieds
+Comme vous avez pu le suivre dans un des articles précédents, je suis arrivé à Mindo avec le petit doigt de pied
 cassé. 
 
 Par chance, je commençais à pouvoir marcher en faisant attention de ne pas mettre trop de poids sur l'extérieur du pied.
