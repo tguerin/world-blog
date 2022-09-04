@@ -93,7 +93,7 @@ Nous avons eu de la chance, car normalement on n'était pas censé en voir.
 
 Le tour commence alors et le guide nous emmène dans les profondeurs de son jardin, enfin de sa forêt privée plutôt!
 
-![](../img/ecuador/mindo/jardin.jpg)
+![](../img/ecuador/mindo/jardin2.jpg)
 *Sacré "jardin"*
 
 Notre guide est fabuleux, un vrai passionné! Grâce à lui on observe des tas d'oiseaux dont certains endémiques à l'Équateur.
