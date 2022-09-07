@@ -18,6 +18,7 @@ description: > # A blog about travel, adventure and stories from the road.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://travelandlife.fr" # the base hostname & protocol for your site
 permalink: :title
+staticman_url: "https://travel-and-life-staticman.herokuapp.com/v3/entry/github/tguerin/world-blog.github.io/master/comments"
 
 # Build settings
 markdown: kramdown
