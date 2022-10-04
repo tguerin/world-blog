@@ -32,11 +32,22 @@ Autre avantage, le fait d'arriver à 6h ou 7h du matin en ville n'a jusque-là p
 
 Passons maintenant aux désavantages. Parce que oui, il y en a!
 
-Franchement vu l'état des routes, les conducteurs sont des champions. Mais beaucoup sont aussi des pilotes dans l'âme. Alors il faut se préparer à être ballotés dans les virages et à avoir l'adrénaline qui monte à chaque dépassement de véhicule. Il n'y a que deux lignes de circulation? Que nenni! Il y a au moins de la place pour 4 facile! On a retenu notre souffle quelques fois.
+Franchement vu l'état des routes, les conducteurs sont des champions. Mais beaucoup sont aussi des pilotes dans l'âme. 
+
+![](img//peru/route/pilote.gif)
+*Dans la tête de notre pilote*
+
+Alors il faut se préparer à être ballotés dans les virages et à avoir l'adrénaline qui monte à chaque dépassement de véhicule. Il n'y a que deux lignes de circulation? Que nenni! Il y a au moins de la place pour 4 facile! On a retenu notre souffle quelques fois.
+
+![](img//peru/route/yes.gif)
+*Derrière c'est nous*
 
 Également, s'il y a bien une chose avec laquelle il faut savoir composer ici, c'est le bruit. Les films d'action à fond sur les écrans rivalisent avec les appels passés sur haut-parleurs, les vidéos de commentaire de foot, les discussions animées, et j'en passe, et ce à n'importe quelle heure du jour et de la nuit. Autant vous dire que si vous n'avez pas de bouchons d'oreilles, vous êtes foutus. Les gens paraissent tellement habités que ça ne les réveille même pas, et franchement je les admire. 
 
 Pour nous c'est plus difficile. C'est ainsi qu'au bout de 2 heures de vidéos du voisin à fond la caisse et de 22 heures de bus, Tom a pété une durite. Si tout le monde peut faire du bruit, pourquoi pas lui? On veut jouer au plus fort? Alors profitez bien de la super playlist heavy metal au maximum du volume. Technique redoutablement efficace: le voisin a rangé son portable en 1 minute et nous sommes partis dans un énorme fou rire nerveux. 
+
+![](img//peru/route/victoire.gif)
+*K.O. technique, victoire pour Tom, woop woop!*
 
 Au moins ça nous fait des histoires à raconter!
 
