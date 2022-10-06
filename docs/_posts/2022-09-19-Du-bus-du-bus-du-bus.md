@@ -26,6 +26,8 @@ Nous avons souvent opté pour des bus de nuit, ce qui nous a permis d'économise
 
 Pour vous dire, nous sommes sortis plus reposés des 24 heures Lima-Cusco que des 8 heures de bus que nous avons fait précédemment! Désormais nous essayons donc de réserver à chaque fois en avance ces précieuses places. 
 
+EDIT: enfin ça, c'est quand on a pas le soleil en plein sur le parre-brise ou le froid glacial la nuit, là ça pique.
+
 Côté sécurité, les bagages restent scellées en soute tout du long, donc aucun problème de ce côté-là. Chaque passager doit présenter sa pièce d'identité, donc c'est plutôt réglo. Cela ne nous empêche pas de garder auprès de nous nos affaires les plus précieuses. Un conseil que nous avons toujours appliqué: ne pas mettre son sac dans le petit compartiment au-dessus du siège, histoire de ne pas provoquer les tentations. 
 
 Autre avantage, le fait d'arriver à 6h ou 7h du matin en ville n'a jusque-là pas été un problème, les hôtels acceptant à chaque fois que l'on prenne la chambre plus tôt. Pouvoir dormir un peu plus et partir à la découverte de la ville ensuite donne vraiment la sensation d'avoir gagné une journée!
